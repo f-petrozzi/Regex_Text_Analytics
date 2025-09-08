@@ -11,9 +11,9 @@ A project applying regular expressions to clean, extract, and analyze text from 
 ## Dataset
 This project uses a public domain text.
 
-| source | rows | key fields |
-|---|---:|---|
-| Project Gutenberg: The Wonderful Wizard of Oz | N/A (plain text) | sentence, token |
+| source | key fields |
+|---|---|
+| Project Gutenberg: The Wonderful Wizard of Oz | sentence, token |
 
 Source URL: https://www.gutenberg.org/cache/epub/55/pg55.txt
 
