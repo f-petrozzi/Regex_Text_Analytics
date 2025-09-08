@@ -72,5 +72,4 @@ regex-text-analytics/
     docs/
         data_sources.txt
     README.md
-    requirements.txt
 ```
